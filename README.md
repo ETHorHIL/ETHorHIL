@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ETHorHIL/ETHorHIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on exploring new opportunities in the blockchain/Ethereum/ZKp space
 - 🌱 I’m currently learning how ZKPs work
 - 👯 I’m looking to collaborate on blockchain projects, rollups, defi
