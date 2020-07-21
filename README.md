@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ZKp circuit design
 - 💬 Ask me about anything
 - 📫 How to reach me: hildebrandtthore@gmail.com
-- 😄 Pronouns: he
 - ⚡ Fun fact: A cow-bison hybrid is called a “beefalo”
